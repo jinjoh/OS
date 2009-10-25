@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'This will build JINJOH OS from a Gentoo Live CD'
